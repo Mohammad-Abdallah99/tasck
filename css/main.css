@@ -1,0 +1,78 @@
+*{
+    margin:0px;
+}
+h1{
+    margin: 20px 30px 30px 93px;
+}
+h3{
+    margin-left: 27px;
+}
+.dad{
+    margin-left: 7%;
+}
+.description{
+    width: 95%;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.block{
+    width:23%;
+    float: left;
+    border: 1px solid ;
+    margin: 2px;
+}
+.block img{
+    width: 95%;
+}
+.price{
+    float: left;
+    margin-top: 5px;
+}
+.new{
+    color: green;
+    font-size: 15px;
+    font-weight: 800;
+    margin-left:25px;
+}
+.last{
+    text-decoration: line-through;
+    font-weight: bold;
+    color: red;
+    font-size: 12px;
+    margin-left: 8px;
+
+}
+.btn1
+{
+    margin: 7px 0px 8px 22px;
+    width: 60%;
+    height: 30px;
+    background-color: blue;
+    color: white;
+}
+.btn2{
+    height: 30px;
+    background-color: white;
+    color: blue;
+    border: 1px blue solid;
+}
+
+.item{
+    float: left;
+    margin-left: 16px;
+}
+i{
+    font-size: 20px;
+}
+.clearfix{
+    clear: both;
+}
+button p{
+    margin-top: 2px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.btn2 i{
+    font-size: 29px;
+}
